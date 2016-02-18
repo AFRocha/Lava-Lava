@@ -1,5 +1,6 @@
-/* Andre Rocha************
- * Maquina para lavagem de carros
+/*
+ * @author AndréFRocha 
+ * Máquina para lavagem de carros
  */
 #include <stdlib.h>
 #include <stdio.h>

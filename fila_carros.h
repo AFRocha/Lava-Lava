@@ -1,7 +1,7 @@
-/**Funcoes para a fila de carros*
-Autor:*************************
-***********Andre Rocha****fc42189
-*/
+/*
+ * @author AndréFRocha 
+ * Funções para a fila de carros
+ */
 
 #ifndef _FILA
 #define _FILA

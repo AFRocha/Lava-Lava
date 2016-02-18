@@ -1,4 +1,5 @@
-/* Andre Rocha**********
+/* 
+ * @author AndréFRocha
  * Prototipos das funcoes
  * para a maquina de lavagem 
  * de carros

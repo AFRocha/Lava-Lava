@@ -1,4 +1,5 @@
-/* Andre Rocha****fc42189
+/*
+ * @author AndréFRocha 
  * Interface para o tipo Carro (projecto Lava-lava)
  */
 

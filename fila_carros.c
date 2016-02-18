@@ -1,8 +1,7 @@
-/******Fila para os Carros*******
-Autor:*************************
-***********Andre Rocha****
-*/
-
+/*
+ * @author AndréFRocha 
+ * Fila para os carros
+ */
 
 #include <stdlib.h>
 #include <stdio.h>
